@@ -1,5 +1,2 @@
-DEBUG:root:This is a debug message
-INFO:root:This is info message
-ERROR:root:This is an error message
-WARNING:root:This is a warning message
-CRITICAL:root:This is a critical message
+User:akshay.bogar@abc.com: 2020-05-08 21:48:02,142: INFO: main: Line:10     This is an info message
+User:akshay.bogar@abc.com: 2020-05-08 21:48:02,142: WARNING: main: Line:11     This is a warning message
