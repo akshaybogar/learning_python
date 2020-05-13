@@ -1,2 +1,2 @@
-User:akshay.bogar@abc.com: 2020-05-08 21:48:02,142: INFO: main: Line:10     This is an info message
-User:akshay.bogar@abc.com: 2020-05-08 21:48:02,142: WARNING: main: Line:11     This is a warning message
+User:akshay.bogar@abc.com: 2020-05-13 17:34:10,511: INFO: main: Line:10     This is an info message
+User:akshay.bogar@abc.com: 2020-05-13 17:34:10,536: WARNING: main: Line:11     This is a warning message
